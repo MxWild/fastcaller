@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">FastCaller</string>
+    <string name="textDownLeft">БАБУШКА</string>
+    <string name="textDownRight">ДЕДУШКА</string>
+    <string name="textTopRight">ПАПА</string>
+    <string name="textTopLeft">МАМА</string>
 </resources>
